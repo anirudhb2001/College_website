@@ -1,0 +1,38 @@
+
+.head {
+    text-align: center;
+    color: #d91010;
+    margin-top: 20px;
+}
+.nav{
+    font-size: small;
+    text-align: center;
+}
+.navabar-brand {
+    color: #d91010;
+    font-size: 1.8em;
+    font-weight: bold;
+    padding-left: 40px;
+    text-align: center;
+}
+.d-block {
+    width: 80%;
+    height: 60%;
+    background-color: #d91010;
+    margin-top: 20px;
+}
+.navbar {
+    background-color: #d91010;
+    padding: 10px;
+}
+.card-body {
+    background-color: #f8f9fa;
+    padding: 20px;
+    padding-left: 30px;
+}
+header {
+    background-color: #698fb5;
+    padding: 10px;
+    padding-left: 20px;
+    color: rgb(37, 2, 2);
+}
